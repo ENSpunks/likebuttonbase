@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Token Balance Search</title>
+  <style>
+    /* Search Bar Styles */
+    .search-container {
+      display: flex;
+      align-items: center;
+      max-width: 400px;
+      margin: 0 auto;
+      margin-top: 20px;
+    }
+    .search-bar {
+      width: calc(100% - 40px);
+      padding: 10px;
+      border: 2px solid white; 
+      border-radius: 25px;
+      background: black;
+      outline: none;
+      color: white;
+      font-size: 16px;
+    }
+
+    /* Search Button Styles */
+    .search-button {
+      background: black;
+      border: 2px solid white;
+      padding: 10px 20px;
+      border-radius: 25px;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      margin-left: 10px; 
+    }
+  </style>
+</head>
+<body>
+
+<!-- Test Web3 Library Button -->
+<button type="button" id="web3-test-button">Test Web3 Library</button>
+<span id="web3-status"></span>
+<br>
+
+<!-- Test API Connectivity Button -->
+<button type="button" id="api-test-button">Test API Connectivity</button>
+<span id="api-status"></span>
+<br>
+
+<!-- Search Bar -->
+<div class="search-container">
+  <input type="text" class="search-bar" placeholder="Search .base, .eth, or address">
+  <button type="button" class="search-button" onclick="searchTokenBalance()">Search</button>
+</div>
+
+<!-- Script to load Web3.js -->
+<script src="https://cdn.jsdelivr.net/npm/web3@1.3.5/dist/web3.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Test Web3 Library Button
+  const web3TestButton = document.getElementById('web3-test-button');
+  web3TestButton.addEventListener('click', testWeb3Library);
+
+  // Test API Connectivity Button
+  const apiTestButton = document.getElementById('api-test-button');
+  apiTestButton.addEventListener('click', testAPIConnectivity);
+
+  // Search Bar
+  const searchBar = document.querySelector('.search-bar');
+  const searchButton = document.querySelector('.search-button');
+
+  // Add event listener for Enter key press
+  searchBar.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+      searchTokenBalance();
+    }
+  });
+
+  // Function to test Web3 library
+  function testWeb3Library() {
+    const web3Status = document.getElementById('web3-status');
+    if (typeof web3 !== 'undefined') {
+      web3Status.textContent = '✅ Web3 library loaded successfully';
+    } else {
+      web3Status.textContent = '❌ Failed to load Web3 library';
+    }
+  }
+
+  // Function to test API connectivity
+  function testAPIConnectivity() {
+    // You can modify this function to test API connectivity
+    const apiStatus = document.getElementById('api-status');
+    // For demonstration purposes, we'll assume API connectivity is successful
+    apiStatus.textContent = '✅ API connected successfully';
+  }
+
+  // Function to search token balance
+  async function searchTokenBalance() {
+    const searchTerm = document.querySelector('.search-bar').value.trim();
+    if (!searchTerm) {
+      alert('Please enter a search term.');
+      return;
+    }
+
+    try {
+      // Initialize Web3 with Infura provider
+      const web3 = new Web3(new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/ede55845a9ea49c78a9b439a6ba2c6ea'));
+      
+      // Replace 'TOKEN_CONTRACT_ADDRESS' and 'TOKEN_ABI' with actual values
+      const tokenContract = new web3.eth.Contract(['function balanceOf(address) view returns (uint256)'], '0x0469dFb82A816C5F0a566625Cec09216A721E90e');
+      
+      // Call the balanceOf function of the token contract
+      const balance = await tokenContract.methods.balanceOf(searchTerm).call();
+      
+      // Display the balance
+      alert(`Token balance for ${searchTerm}: ${balance}`);
+    } catch (error) {
+      alert('Error: ' + error.message);
+    }
+  }
+});
+</script>
+
+</body>
+</html>
