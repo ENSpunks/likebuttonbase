@@ -35,7 +35,7 @@ decentralized social media tools and social graphs.
 
 ## Past
 
-> Much that once was is lost, for none now live who remember it. It began with the forging of the Like button.
+> Much that once was is lost, for none now live who remember it. It began with the forging of the great like button.
 > -Galadriel
 
 > The like button on the social networking website Facebook was first enabled on February 9, 2009...The like button
