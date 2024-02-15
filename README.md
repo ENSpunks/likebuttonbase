@@ -42,7 +42,7 @@ decentralized social media tools and social graphs.
 > enables users to easily interact with status updates, comments, photos and videos, links shared by friends, and
 > advertisements. Once clicked by a user, the designated content appears in the News Feeds of that user's friends,
 > and the button also displays the number of other users who have liked the content, including a full or partial list of those users.
-> [Wikipedia: Facebook like button](https://en.wikipedia.org/wiki/Like_button](https://en.wikipedia.org/wiki/Facebook_like_button)
+> [Wikipedia: Facebook like button](https://en.wikipedia.org/wiki/Facebook_like_button)
 
 Before Web2.0 and the social media sandboxes which have come to dominate the web and out lives, there was Web1.  
 
@@ -70,7 +70,7 @@ As the saying goes, sometimes we must take a step back to make a giant leap forw
 > Consumer Action, Consumer Watchdog, Electronic Frontier Foundation, Electronic Privacy Information Center, Privacy Activism, Privacy
 > Lives, and Privacy Rights Clearinghouse sent an open letter to Facebook requesting that it "Do not retain data about specific visitors
 > to third party sites that incorporate "social plugins" or the "like" button, unless the site visitor chooses to interact with those tools."
-> [Wikipedia: Facebook like button](https://en.wikipedia.org/wiki/Like_button](https://en.wikipedia.org/wiki/Facebook_like_button)
+> [Wikipedia: Facebook like button](https://en.wikipedia.org/wiki/Facebook_like_button)
 
 Transforming likebutton.eth into $❤️ tokens is like giving it a heart and soul. These tokens aren't just a functional part of
 the project; they represent the project's core values and goals. By turning appreciation and community support into these unique
