@@ -1,9 +1,11 @@
-# The Web3 Like Button
+# LikeButton.base: A decentralized Like Button for Web3
 
 ## Abstract
 
 > web1: read
-> web2: read / write 
+> <br>
+> web2: read / write
+> <br>
 > web3: read / write / own
 
 This lite paper introduces LikeButton.base, a decentralized "Like Button" built on Base. 
