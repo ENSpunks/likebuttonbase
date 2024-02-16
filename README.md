@@ -70,33 +70,46 @@ As the saying goes, sometimes we must take a step back to make a giant leap forw
 > to third party sites that incorporate "social plugins" or the "like" button, unless the site visitor chooses to interact with those tools."<br> 
 > -[Wikipedia: Facebook like button](https://en.wikipedia.org/wiki/Facebook_like_button)
 
-Transforming likebutton.eth into $❤️ tokens is like giving it a heart and soul. These tokens aren't just a functional part of
-the project; they represent the project's core values and goals. By turning appreciation and community support into these unique
-tokens, we're creating a tangible link between users and their expressions of appreciation.
+Bitcoin introduced blockchain technology, or decentralized ledger technology, enabling for the first time the ability to 
+transact trustlessly person to person without any centralized authority or servers.  Ethereum perfected blockchain technology 
+with the addition of immuntable self-executing code on a decentralized blockchain, known as smart contracts. 
 
-Choosing emojis for the token symbols is all about making things fun and adding a touch of individuality. Emojis are like the
-universal language of expression, and they bring a playful and personal vibe to the project. It's not just about making the tokens
+To date much of what has been built on Ethereum follows in Bitcoin's footsteps and emphasizes financial transactions and 
+stores of value.  However, Ethereum and smart contracts are more than just decentralized finance, they are the wire clippers 
+that will free from the barbed wire fencing of Web2 social media giants that own our data, control our data, and
+have the power to censor us.  Information, data and speech seek to be free, and it is the ultimate aim of Likebutton.base
+to set the most valuable data of Web2 free.
+
+### Decentralized Like Button for Web3
+
+Likebutton.base will build 💙 tokens on Base and Ethereum L2 blockchain dedicated to scaling Ethereum to the next billion users.
+💙 is like giving it a heart and soul of LikeButton.base, no pun intended. These tokens aren't just a functional part of
+the project, they represent the project's core values and goals. By turning appreciation and community support into 💙, 
+LikeButton.base is creating a tangible link between users and their expressions of appreciation.
+
+Choosing the 💙 emoji for the token symbols is all about making things fun and adding a touch of individuality. Emojis are the
+universal language of expression, and they bring a playful and personal vibe to the project. It's not just about making 💙 tokens
 visually appealing; it's about making the act of showing appreciation more enjoyable for everyone in the community.
 
-In simple terms, the way we turn likebutton.eth into $❤️ tokens and play with emojis isn't just for show. It's about capturing the 
-essence of LikeButton.eth—the project that wants to change how we express and receive support in the decentralized social media world.
-Through these thoughtful touches, LikeButton.eth aims to create a special and enjoyable experience, reinforcing the bond between users
+In simple terms, the way we turn likebutton.eth into 💙 tokens and play with emojis isn't just for show. It's about capturing the 
+essence of LikeButton.base — the project that wants to change how we express and receive support in the decentralized social media world.
+Through these thoughtful touches, LikeButton.base aims to create a special and enjoyable experience, reinforcing the bond between users
 and their ability to share and receive love in the digital space.
 
-Beyond the charming tokens and playful emojis, LikeButton.eth introduces an innovative dimension with its connectivity feature. This 
-functionality allows users to visually map the interconnected web of appreciations within the community. Imagine a dynamic network 
+### Decentralized Social Graph
+
+Beyond the playful emojis, LikeButton.base introduces an innovative dimension with its connectivity feature. This functionality 
+allows users to visually map the interconnected web of appreciations within the community. The very data Web2 social media
+collects from us that they inturn use to sell our content and attention to their advertisers.  Imagine a dynamic network 
 showcasing who sent likes to whom, creating a lively visual representation of the community's shared moments of appreciation. This 
 interconnected web not only adds a layer of transparency but also enhances the sense of connection among community members by making 
 visible the threads of acknowledgment and support that weave through the decentralized social fabric. The ability to see and navigate 
-this intricate network fosters a deeper understanding of the community's dynamics, making the experience of giving and receiving likes 
-on LikeButton.eth even more engaging and meaningful.
+this intricate network fosters a deeper understanding of the community's dynamics, making the experience of giving and receiving 💙 
+on LikeButton.base even more engaging and meaningful.  💙 holds the power to set our data free, by extension it sets us free as 
+individuals to once again capture the value of our content and relationships, and sets us free collectively to shape culture.
 
 ## Future
 
 The paper concludes by inviting valuable input from the community. Your feedback, comments, and questions about the LikeButton project are highly encouraged. If any community members are interested in collaborating or have ideas to contribute to the LikeButton project, please don't hesitate to reach out. Your insights are pivotal to the continued development and success of LikeButton. If you would like a % of like button allocated for your community, reach out to us and we will be happy to discuss a collaboration.
 
-## Future Plans
-
-Looking ahead, the LikeButton project contemplates the possibility of future airdrops exclusively for LikeButton token holders. This potential initiative is designed to acknowledge and appreciate the ongoing support and engagement of the community. As the project develops, holders of LikeButton tokens may have the opportunity to receive additional tokens or exclusive benefits through airdrops. While specific details remain open-ended, the LikeButton team is actively exploring ways to enhance the LikeButton experience for its holders, creating a dynamic and rewarding journey for all participants. Keep an eye out for updates and announcements as we navigate the potential avenues for LikeButton's future together.
-
-In summary, LikeButton.eth represents a step towards enhancing community engagement and ownership, embracing the principles of decentralization and inclusivity within the decentralized social media landscape.
+In summary, LikeButton.base represents a step towards enhancing community engagement and ownership, embracing the principles of decentralization and inclusivity within the decentralized social media landscape.
