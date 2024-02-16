@@ -1,4 +1,4 @@
-# LikeButton.base:<br> A decentralized Like Button for Web3
+# LikeButton.base<br> A Decentralized Like Button for Web3
 
 ## Abstract
 
