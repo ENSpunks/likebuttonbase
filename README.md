@@ -33,7 +33,7 @@ decentralized social media tools and social graphs.
 
 ## Past
 
-> Much that once was is lost, for none now live who remember it. It began with the forging of the great like button.
+> Much that once was is lost, for none now live who remember it. It began with the forging of the great like button.<br> 
 > -Galadriel
 
 > The like button on the social networking website Facebook was first enabled on February 9, 2009...The like button
@@ -59,8 +59,7 @@ As the saying goes, sometimes we must take a step back to make a giant leap forw
 ## Present
 
 > One button to rule them all, One button to find them,
-> One button to bring them all, and in the darkness bind them.
->
+> One button to bring them all, and in the darkness bind them.<br> 
 > -Galadriel
 
 > Social network like buttons on websites other than their own are often used as web beacons to track user activities for targeted
