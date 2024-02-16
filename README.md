@@ -2,9 +2,9 @@
 
 ## Abstract
 
-> web1: read
-> web2: read / write
-> web3: read / write / own
+> web1: read <br> 
+> web2: read / write <br> 
+> web3: read / write / own <br> 
 
 This lite paper introduces LikeButton.base, a decentralized "Like Button" built on Base. 
 LikeButton.base reimagines the most important social media tool in Web2, the "like button", 
@@ -15,8 +15,7 @@ and rebuilds for the Web3 social media graph.
 > A like button, like option, or recommend button is a feature in communication software such
 > as social networking services, Internet forums, news websites and blogs where the user can
 > express that they like, enjoy or support certain content...This is a quantitative alternative
-> to other methods of expressing reaction to content, like writing a reply text.
->
+> to other methods of expressing reaction to content, like writing a reply text.<br>
 > -[Wikipedia: Like button](https://en.wikipedia.org/wiki/Like_button)
 
 Decentralized social media tools and social graphs represent a groundbreaking paradigm shift in
@@ -40,8 +39,7 @@ decentralized social media tools and social graphs.
 > The like button on the social networking website Facebook was first enabled on February 9, 2009...The like button
 > enables users to easily interact with status updates, comments, photos and videos, links shared by friends, and
 > advertisements. Once clicked by a user, the designated content appears in the News Feeds of that user's friends,
-> and the button also displays the number of other users who have liked the content, including a full or partial list of those users.
->
+> and the button also displays the number of other users who have liked the content, including a full or partial list of those users.<br> 
 > -[Wikipedia: Facebook like button](https://en.wikipedia.org/wiki/Facebook_like_button)
 
 Before Web2.0 and the social media sandboxes which have come to dominate the web and out lives, there was Web1.  
@@ -70,8 +68,7 @@ As the saying goes, sometimes we must take a step back to make a giant leap forw
 > Internet privacy...the American Civil Liberties Union, Center for Democracy and Technology, Center for Digital Democracy,
 > Consumer Action, Consumer Watchdog, Electronic Frontier Foundation, Electronic Privacy Information Center, Privacy Activism, Privacy
 > Lives, and Privacy Rights Clearinghouse sent an open letter to Facebook requesting that it "Do not retain data about specific visitors
-> to third party sites that incorporate "social plugins" or the "like" button, unless the site visitor chooses to interact with those tools."
->
+> to third party sites that incorporate "social plugins" or the "like" button, unless the site visitor chooses to interact with those tools."<br> 
 > -[Wikipedia: Facebook like button](https://en.wikipedia.org/wiki/Facebook_like_button)
 
 Transforming likebutton.eth into $❤️ tokens is like giving it a heart and soul. These tokens aren't just a functional part of
